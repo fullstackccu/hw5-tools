@@ -70,6 +70,3 @@ node sheets-service.js
 ```
 
 From there, the tool should be pretty self-explanitory.
-
-## Questions, bugs, etc?
-[File an issue](https://github.com/fullstackccu/hw5-tools.git/issues) in the tracker. 
