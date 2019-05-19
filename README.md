@@ -1,5 +1,4 @@
-Just fot STUDY.
-# Google Sheets Service Account CLI (sheets-service)
+# For HW5 Only
 Create, view, share and delete Google Sheets owned by your [Google Service Account](https://cloud.google.com/iam/docs/understanding-service-accounts) through this command-line tool
 
 ## The Problem
