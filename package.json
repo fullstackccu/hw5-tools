@@ -1,7 +1,7 @@
 {
-  "name": "sheets-service",
+  "name": "410164-hw5-tools",
   "version": "1.0.0",
-  "description": "Manage the Google Sheets saved in your Service Account via this command-line script",
+  "description": "This is a tool published for 4102165: Full Stack Web Development Fundamentals at CCU.",
   "dependencies": {
     "google-auth-library": "^0.10.0",
     "googleapis": "^18.0.0",
@@ -10,10 +10,19 @@
   "scripts": {
     "start": "node sheets-service.js"
   },
-  "author": "vrkwork@gmail.com",
-  "license": "MIT",
+ "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vrk/sheets-service.git"
-	}
+    "url": "git+https://github.com/fullstackccu/hw5-tools.git"
+  },
+   "bin": {
+    "hw5-sheets": "./sheets-service.js"
+  },
+  "bugs": {
+    "url": "https://github.com/fullstackccu/hw5-tools/issues"
+  },
+  "homepage": "https://github.com/fullstackccu/hw5-tools",
+  "main": "sheets-service.js",
+  "devDependencies": {}
 }
